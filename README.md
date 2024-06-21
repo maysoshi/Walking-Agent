@@ -38,3 +38,11 @@ To run the basic Box2D demo `hellobox2d.cpp`
 1. Run `dock.sh` to enter the Docker container for the project 
 2. Run `make hellobox2d` to generate the `hellobox2d` executable
 3. Run the `hellobox2d` executable
+
+## Collaborators
+- Elie Eshoa
+- Omar Abdel Haq
+- Ricky Williams
+
+## Acknowledgements 
+This project was completed as part of Computer Science 205 at Harvard University.
